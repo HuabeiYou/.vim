@@ -55,7 +55,7 @@ Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-commentary' " fileType based comment
 Plug 'tpope/vim-sleuth'     " smart shift and tab
-Plug 'tinted-theming/base16-vim', { 'branch': 'reworkHighlights' }
+Plug 'tinted-theming/base16-vim', { 'branch': 'main' }
 Plug 'prabirshrestha/vim-lsp'
 Plug 'mattn/vim-lsp-settings'
 Plug 'prabirshrestha/asyncomplete.vim'
